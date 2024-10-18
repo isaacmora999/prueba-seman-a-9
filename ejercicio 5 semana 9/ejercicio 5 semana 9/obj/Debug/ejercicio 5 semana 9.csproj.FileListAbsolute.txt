@@ -1,0 +1,7 @@
+C:\Users\Isaac Mora\source\repos\ejercicio 5 semana 9\ejercicio 5 semana 9\bin\Debug\ejercicio 5 semana 9.exe.config
+C:\Users\Isaac Mora\source\repos\ejercicio 5 semana 9\ejercicio 5 semana 9\bin\Debug\ejercicio 5 semana 9.exe
+C:\Users\Isaac Mora\source\repos\ejercicio 5 semana 9\ejercicio 5 semana 9\bin\Debug\ejercicio 5 semana 9.pdb
+C:\Users\Isaac Mora\source\repos\ejercicio 5 semana 9\ejercicio 5 semana 9\obj\Debug\ejercicio 5 semana 9.csproj.AssemblyReference.cache
+C:\Users\Isaac Mora\source\repos\ejercicio 5 semana 9\ejercicio 5 semana 9\obj\Debug\ejercicio 5 semana 9.csproj.CoreCompileInputs.cache
+C:\Users\Isaac Mora\source\repos\ejercicio 5 semana 9\ejercicio 5 semana 9\obj\Debug\ejercicio 5 semana 9.exe
+C:\Users\Isaac Mora\source\repos\ejercicio 5 semana 9\ejercicio 5 semana 9\obj\Debug\ejercicio 5 semana 9.pdb
