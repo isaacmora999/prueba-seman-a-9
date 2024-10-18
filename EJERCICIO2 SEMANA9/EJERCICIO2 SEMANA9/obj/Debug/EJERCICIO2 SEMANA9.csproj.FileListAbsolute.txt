@@ -1,0 +1,7 @@
+C:\Users\manue\source\repos\EJERCICIO2 SEMANA9\EJERCICIO2 SEMANA9\obj\Debug\EJERCICIO2 SEMANA9.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\EJERCICIO2 SEMANA9\EJERCICIO2 SEMANA9\obj\Debug\EJERCICIO2 SEMANA9.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\EJERCICIO2 SEMANA9\EJERCICIO2 SEMANA9\bin\Debug\EJERCICIO2 SEMANA9.exe.config
+C:\Users\manue\source\repos\EJERCICIO2 SEMANA9\EJERCICIO2 SEMANA9\bin\Debug\EJERCICIO2 SEMANA9.exe
+C:\Users\manue\source\repos\EJERCICIO2 SEMANA9\EJERCICIO2 SEMANA9\bin\Debug\EJERCICIO2 SEMANA9.pdb
+C:\Users\manue\source\repos\EJERCICIO2 SEMANA9\EJERCICIO2 SEMANA9\obj\Debug\EJERCICIO2 SEMANA9.exe
+C:\Users\manue\source\repos\EJERCICIO2 SEMANA9\EJERCICIO2 SEMANA9\obj\Debug\EJERCICIO2 SEMANA9.pdb
