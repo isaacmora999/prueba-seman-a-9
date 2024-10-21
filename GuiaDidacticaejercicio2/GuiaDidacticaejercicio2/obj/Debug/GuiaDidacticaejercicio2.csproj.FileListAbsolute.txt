@@ -1,0 +1,7 @@
+C:\Users\manue\source\repos\GuiaDidacticaejercicio2\GuiaDidacticaejercicio2\bin\Debug\GuiaDidacticaejercicio2.exe.config
+C:\Users\manue\source\repos\GuiaDidacticaejercicio2\GuiaDidacticaejercicio2\bin\Debug\GuiaDidacticaejercicio2.exe
+C:\Users\manue\source\repos\GuiaDidacticaejercicio2\GuiaDidacticaejercicio2\bin\Debug\GuiaDidacticaejercicio2.pdb
+C:\Users\manue\source\repos\GuiaDidacticaejercicio2\GuiaDidacticaejercicio2\obj\Debug\GuiaDidacticaejercicio2.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\GuiaDidacticaejercicio2\GuiaDidacticaejercicio2\obj\Debug\GuiaDidacticaejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\GuiaDidacticaejercicio2\GuiaDidacticaejercicio2\obj\Debug\GuiaDidacticaejercicio2.exe
+C:\Users\manue\source\repos\GuiaDidacticaejercicio2\GuiaDidacticaejercicio2\obj\Debug\GuiaDidacticaejercicio2.pdb
